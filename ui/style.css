@@ -1,31 +1,13 @@
+
 * Layout *
 body {
-    
-    font-family: sans-serif;
-    background-color: lightyellow;
-    margin-top: 75px;
+    font:normal 12px/1.6em Arial, Helvetica, sans-serif;
+	color:#2a3845;
+	margin:0;
+	padding:0;
+	background:#FFFFFF;
 }
 
-.center {
-    text-align: center;
-}
-
-.text-big {
-    font-size: 300%;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-.img-medium {
-    height: 200px;
-}
-.right {
-    text-align: right;
-}
-
-   
 p {
 	margin:0;
 	padding:0;
@@ -70,7 +52,7 @@ p {
 	width:218px;
 	margin:0 auto;
 	padding:10px 25px;
-	background:url(https://www.google.co.in/search?q=background+images+for+websites&biw=1366&bih=633&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0ahUKEwjT5fDJ8p_PAhVP8GMKHR9iCv8QsAQIJg#imgrc=JUuwj7OfXAh7UM%3A') no-repeat top;
+	background:url('http://img404.imageshack.us/img404/3092/shadowh.jpg') no-repeat top;
 }
 
 #footer {
